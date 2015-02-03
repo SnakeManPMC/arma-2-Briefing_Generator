@@ -1,0 +1,95 @@
+Enemy is really getting their act together on the final phases of our operation in the <TERRAIN_NAME>.
+
+Enemy is seen doing some desperate measures on the front line, while our forces continue pushing forward deeper and deeper into their territory. Soon this whole <TERRAIN_NAME> is ours.
+
+Situation at the moment looks good, there are some hectic movement in the enemy side but nothing too threatening.
+
+Situation at the moment looks quiet, there are some movement in the <TERRAIN_AREA> side but nothing too threatening to our forces. I guess the enemy takes it slow today.
+
+During night the enemy did try to launch an small scale attack but our forces maintained their grounds. We push forward again today.
+
+Today we launch our initial assault on <TERRAIN_NAME>. This will be harsh terrain to fight on, but we must take the fight to the enemy.
+
+Enemy was not expecting us, we got a foothold on <TERRAIN_NAME>. Our forces start to deploy now on to the <TERRAIN_AREA> <TERRAIN_NAME> in order to proceed further on the <TERRAIN_NAME>.
+
+Our war against the <OPFOR_NAME> are continuing, our push forward should be straight out simple today. Enemy doesn't appear to have any major counter attacks planned according to their troop movements.
+
+Enemy is launching counter attack on several fronts, they perfectly masked this offensive into harmless activity. We wont be making that mistake again anytime soon. We will hold our grounds and defeat the enemy.
+
+<OPFOR_NAME> offensives on <TERRAIN_AREA> sector of <TERRAIN_NAME> has stopped this morning, they are consolidating their forces at the moment.
+
+Some minor offensive operations by the enemy, nothing we cant handle. Our forces are performing superbly, better than anyone could expect.
+
+The latest offensive was mediocre at best, our forces hold their grounds. Now we are looking ways into disrupting enemy supply system as that might further reduce their ability to fight.
+
+Situation at the moment looks good, no threatening movement in the enemy side is to be expected but we must keep an close eye on their mobile troops so we don't get any surprises.
+
+Enemy has got to be starting to feel the pressure by now, we move on them without mercy on all fronts and it got to be hurting.
+
+Enemy seems to be consolidating its forces. We push forward as planned.
+
+Last night we got a spike of enemy air activity, but we were able to keep them at bay. This reminds us not to let our guard down on any part of the battlefield.
+
+Our Special Operations Forces are conducting a lot of missions behind enemy lines to disrupt their supply lines, communications and command. We will soon see how this pays off.
+
+We are now close to pushing the enemy out of <TERRAIN_NAME>, we must maintain the current pace to keep pressure on. We are too close to fail now. Operation continue as usual on all fronts.
+
+We have successfully captured a foothold on <TERRAIN_NAME>. From this point on our operations are focused on ejecting the <OPFOR_NAME> army from <TERRAIN_NAME> with the minimum of friendly casualties.
+
+Enemy launched large scare counter attack to the <TARGET_TYPE> which our forces are holding. They seems to mobilize even more troops as we prepare for another attack, this might not be over so soon.
+
+Today our operations continue in <TERRAIN_AREA> <TERRAIN_NAME>, we will start to push <TERRAIN_AREA> towards the enemy held territory.
+
+We are seeing some suspicious movement by the enemy forces which we are keeping close eye into. Our Special Operations Forces are reporting some interesting activity from behind the front line. As we speak our forces are preparing for another push towards south.
+
+Enemy counterattack in <TERRAIN_AREA> <TERRAIN_NAME> was stopped by our forces. Right now we must push forward and not let enemy consolidate their positions too much.
+
+Enemy doesn't seem to want to engage our forces anywhere in the region now and we will surely take advantage of this passive mood. Hopefully by end of tomorrow we have gained much more grounds and are in better positions to continue.
+
+There is wave of enemy attacks coming in the <TERRAIN_AREA> part of <TERRAIN_NAME>, we will keep the enemy at bay but closely monitor the situation so it wont get out of hand. Coordinating our troops according to the minute by minute war picture.
+
+This early morning we see the devastation in the <TERRAIN_AREA> area. Enemy still keeps moving his assets to attack the region, however there only seems to be <OPFOR_STRENGHT> <OPFOR_NAME> moving towards the area.
+
+Enemy is fighting in high intensity on the <TERRAIN_AREA> <TERRAIN_NAME> area, we must maintain our positions and not give into any of the enemy's attacks. It is very important that we can proceed our offensive operations as quickly as possible.
+
+We are definitely looking into some heavier enemy defenses in the next couple of days. We try to focus our CAS to eliminate the enemy vehicle force as much as possible so our infantry has easier task ahead of them.
+
+As we have been clearing the area with our air forces, we continue to push towards the <TERRAIN_AREA> choke point of <TERRAIN_TYPE>. Once we have this under our control we can keep the <TERRAIN_AREA2> totally cut off from the rest of the <TERRAIN_NAME>. Our intel tells us there is heavy resistance to be expected in this region.
+
+Our CAS operations seem to be effective as we start to see some armored vehicles withdraw from their positions or trying to mask their vehicles much better. Our forces have suffered only minor losses during the last couple of days of fighting.
+
+It looks like enemy starts to panic as they make very hastily tactical moves on the battlefield. If we keep this momentum up, the war will be over in no time.
+
+As this moment our forces in <TERRAIN_AREA> <TERRAIN_NAME> are preparing to the final push to eject the <OPFOR_NAME> army from the <TERRAIN_NAME>. They only have last few remaining troops held up in the region and we should have no problems neutralizing them. Finally we can claim <TERRAIN_NAME> ours.
+
+Today we launch our assault on the <TERRAIN_NAME>. It is our objective to recapture <TERRAIN_NAME> from the enemy forces with minimum losses of life to friendly forces. We are looking at the state of the art enemy equipment and well trained soldiers operating them. They have had time to dig in here and setup camps. Most of the civilians have fled or in hiding after the <OPFOR_NAME> invasion, so we are good to conduct our offensive operations as there is no collateral targets to worry about.
+
+<OPFOR_NAME> were expecting us, there is now imminent counterattack launched towards the <TARGET_TYPE>, they do not want to let go of <TERRAIN_NAME> easily. Our forces are on the move into the <TARGET_TYPE> but it must be held until additional troops arrive.
+
+We have now strong foothold on the <TERRAIN_NAME>, our forces have arrived here in numbers and we can now held onto the <TARGET_TYPE> to keep the lifeline open. Today we push forward <TERRAIN_AREA> towards the enemy strongholds.
+
+Enemy has mobilized large scale attack force on the <TERRAIN_AREA> <TERRAIN_NAME> against our troops, we must hold the gained grounds at all cost. We are conducting some air strikes further down the enemy supply chain to weaken their attack.
+
+It seems that enemy has left the <TARGET_TYPE> wide open as there is no heavy armor dug in at the time, we must use this opportunity and strike now before they can bring in some more firepower in there. By the end of the day we should have <TARGET_TYPE> of <TERRAIN_NAME> under our control.
+
+Our forces are now in control of <TARGET_TYPE> of <TERRAIN_NAME>. We are monitoring a heavy enemy counterattack heading from <TERRAIN_AREA> towards the city, it is essential that our forces maintain their grounds in this location. We will send all support we got into the are to repel the enemy attack.
+
+Enemy has ceased their attacks and are withdrawing their closest forces. We must now push towards <TERRAIN_AREA> into the next targets in our list, we must keep the enemy at run.
+
+Our forces have penetrated to the <TERRAIN_AREA> side of the river and now we must focus all our air efforts to clear the way from any enemy armor. In the mean time there is some heavy enemy activity at <TERRAIN_AREA2> which we are closely monitoring also.
+
+Our forces in <TERRAIN_AREA> <TERRAIN_NAME> are pinned down by enemy attacks from both sides. We must provide them with all the support we can manage, we cant let enemy overrun them as they have made some good gains of territory in the past few days. By tomorrow we should have pretty good set of forces in the <TARGET_TYPE> region.
+
+Today we launch operation to capture the remainders of the terrain in <TERRAIN_AREA> <TERRAIN_NAME>. By this rate tomorrow, we can claim the whole <TERRAIN_AREA> <TERRAIN_NAME> ours. Enemy looks like they are fortification their positions up <TERRAIN_AREA>, so we might expect to see must stronger resistance in the upcoming days.
+
+As we focus our efforts on the <TERRAIN_AREA> <TERRAIN_NAME>, we will bring a bear some CAS elements to support our ground troops. Enemy has some heavy vehicles located in that area which are threat to our forces.
+
+Our operations continue today to hit the enemy in several locations. Air strikes continue on the <TERRAIN_AREA> area while ground forces are on defensive positions at <TERRAIN_AREA2>. Enemy doesn't appear to have too much equipment to support the attack, but we still have to put all our efforts to stop them.
+
+Air strikes continue with the help of Special Operations Forces to pinpoint targets in the <TERRAIN_AREA>, <TERRAIN_AREA2> region of <TERRAIN_NAME>. At the same time we launch attack on enemy held positions in the <TERRAIN_AREA3> part of the <TERRAIN_NAME>.
+
+Enemy is trying to recapture the <TARGET_TYPE> after our successful strike there earlier, we must keep them away from the <TARGET_TYPE> at all costs. With the help of air forces we should be much more prepared to counter any enemy activity in the <TERRAIN_AREA> part of <TERRAIN_NAME>.
+
+Today if we are successful we can strike wedge to the <TERRAIN_AREA> part of the <TERRAIN_NAME> halting enemy movements in the area. Our air strikes have softened up the area greatly so our ground forces have that much easier job at hand.
+
+Last days for the enemy in <TERRAIN_NAME>, we are gaining grounds at heavy rate of speed. Still the enemy is launching some counterattacks in the <TERRAIN_AREA> trying to take back what was theirs just moments before. We will continue forward until all the <OPFOR_NAME> are driven into sea.
