@@ -12,7 +12,7 @@ class Widget : public QWidget
     Q_OBJECT
 
 public:
-    explicit Widget(QWidget *parent = 0);
+    explicit Widget(QWidget *parent = nullptr);
     ~Widget();
 
 	void Load_Briefings();
@@ -23,6 +23,7 @@ private slots:
 
 private:
     Ui::Widget *ui;
+    QString pmcVersion = "v0.0.1";
 };
 
 #endif // WIDGET_H

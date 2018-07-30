@@ -7,6 +7,7 @@ Widget::Widget(QWidget *parent) :
     ui(new Ui::Widget)
 {
     ui->setupUi(this);
+    setWindowTitle("Briefing Generator " + pmcVersion + " by PMC");
 
     Load_Briefings();
     QTime timmy(0, 0, 0);
@@ -28,8 +29,7 @@ void Widget::Load_Briefings()
 {
     /*
     when you create the resource file, DO NOT USE PREFIX!
-    you might have to manually edit qrc file and remove the prefix=/blabla part
-    there to make it work.
+    you might have to manually edit qrc file and remove the prefix=/blabla part there to make it work.
     */
     QFile file( (":/text/briefings.txt") );
 
